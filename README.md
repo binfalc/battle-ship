@@ -1,1 +1,1 @@
-# battle-ship
+# battle-ship python game
